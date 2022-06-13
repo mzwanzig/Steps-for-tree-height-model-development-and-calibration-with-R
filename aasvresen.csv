@@ -1,0 +1,84 @@
+﻿,Parameter,SV,r,p,level,Gruppe
+1,a,DBHm,0.29638462,0.405672456,unwesentlich,Tree
+2,a,DBHmAA,0.62299755,0.054339219,mäßig,Tree
+3,a,Dq,0.3501573,0.321239172,schwach,Stand
+4,a,DqAA,0.64172624,0.045482517,mäßig,Stand
+5,a,DBHmax,0.04795934,0.895329914,unwesentlich,Stand
+6,a,DBHmaxAA,0.47461499,0.165735153,schwach,Stand
+7,a,RangeDBHAA,0.475246,0.165094025,schwach,Stand
+8,a,RangeHDAA,0.31767111,0.371076741,schwach,Stand
+9,a,HDmaxAA,0.71869565,0.019188308,hoch,Stand
+10,a,DBHdom,0.0300889,0.934240093,unwesentlich,Stand
+11,a,DBHdomAA,0.57521698,0.081906599,mäßig,Stand
+12,a,Hdom,0.35792346,0.309871743,schwach,Stand
+13,a,HdomAA,0.51923731,0.124039965,mäßig,Stand
+14,a,HdAA,0.79759575,0.005705335,hoch,DBH diversity
+15,a,GCdAA,-0.26811815,0.453866636,unwesentlich,DBH diversity
+16,a,VardAA,-0.25486704,0.477303774,unwesentlich,DBH diversity
+17,a,BA,-0.42538783,0.220354701,schwach,Density and competition
+18,a,BAAA,-0.15148641,0.676123822,unwesentlich,Density and competition
+19,a,BALAA,0.35983856,0.307101624,schwach,Density and competition
+20,a,Nlog,-0.1198919,0.741473869,unwesentlich,Density and competition
+21,a,NlogAA,-0.2484637,0.488814516,unwesentlich,Density and competition
+22,a,SDIAA,-0.17132862,0.636027393,unwesentlich,Density and competition
+23,a,ALT,0.40317007,0.247980506,schwach,GI
+24,a,RBAAA,-0.01547172,0.966163717,unwesentlich,MS
+25,a,RNAA,0.10590598,0.77091166,unwesentlich,MS
+26,a,lat,-0.1756531,0.6274,unwesentlich,GI
+27,a,lng,0.1063019,0.7701,unwesentlich,GI
+28,b,DBHm,-0.38649706,0.26991585,schwach,Tree
+29,b,DBHmAA,0.08433058,0.81683318,unwesentlich,Tree
+30,b,Dq,-0.39800534,0.25466552,schwach,Stand
+31,b,DqAA,0.09788456,0.78791736,unwesentlich,Stand
+32,b,DBHmax,0.15399694,0.67100752,unwesentlich,Stand
+33,b,DBHmaxAA,0.24816139,0.48936088,unwesentlich,Stand
+34,b,RangeDBHAA,0.25157645,0.48320415,unwesentlich,Stand
+35,b,RangeHDAA,0.7817904,0.00755058,hoch,Stand
+36,b,HDmaxAA,0.40586392,0.24453296,schwach,Stand
+37,b,DBHdom,-0.11499408,0.75175054,unwesentlich,Stand
+38,b,DBHdomAA,0.09908814,0.78536039,unwesentlich,Stand
+39,b,Hdom,-0.01275482,0.97210337,unwesentlich,Stand
+40,b,HdomAA,0.24609016,0.49311126,unwesentlich,Stand
+41,b,HdAA,0.1270338,0.72655472,unwesentlich,DBH diversity
+42,b,GCdAA,0.05886054,0.87168774,unwesentlich,DBH diversity
+43,b,VardAA,0.10297897,0.77710722,unwesentlich,DBH diversity
+44,b,BA,0.02638746,0.9423176,unwesentlich,Density and competition
+45,b,BAAA,-0.03020347,0.93399014,unwesentlich,Density and competition
+46,b,BALAA,0.04476975,0.90226224,unwesentlich,Density and competition
+47,b,Nlog,0.3539149,0.31571235,schwach,Density and competition
+48,b,NlogAA,-0.13379564,0.71250531,unwesentlich,Density and competition
+49,b,SDIAA,0.01614722,0.96468716,unwesentlich,Density and competition
+50,b,ALT,0.31544161,0.37462963,schwach,GI
+51,b,RBAAA,-0.10149095,0.78026126,unwesentlich,MS
+52,b,RNAA,-0.01651818,0.96387635,unwesentlich,MS
+53,b,lat,0.3638527,0.3013,schwach,GI
+54,b,lng,0.3189058,0.3691,schwach,GI
+55,c,DBHm,-0.298914087,0.401483448,unwesentlich,Tree
+56,c,DBHmAA,-0.529950794,0.115116281,mäßig,Tree
+57,c,Dq,-0.361619746,0.304536977,schwach,Stand
+58,c,DqAA,-0.557713468,0.093900236,mäßig,Stand
+59,c,DBHmax,0.239580187,0.504978101,unwesentlich,Stand
+60,c,DBHmaxAA,-0.446110368,0.196253429,schwach,Stand
+61,c,RangeDBHAA,-0.454315139,0.187156521,schwach,Stand
+62,c,RangeHDAA,0.153319811,0.672386271,unwesentlich,Stand
+63,c,HDmaxAA,-0.325228902,0.359157817,schwach,Stand
+64,c,DBHdom,0.183505699,0.611827868,unwesentlich,Stand
+65,c,DBHdomAA,-0.681277738,0.030068384,mäßig,Stand
+66,c,Hdom,0.030449857,0.933452663,unwesentlich,Stand
+67,c,HdomAA,-0.161166905,0.656463033,unwesentlich,Stand
+68,c,HdAA,-0.857757564,0.00150304,hoch,DBH diversity
+69,c,GCdAA,0.068866171,0.850067661,unwesentlich,DBH diversity
+70,c,VardAA,0.105815165,0.771103703,unwesentlich,DBH diversity
+71,c,BA,0.53002072,0.115059398,mäßig,Density and competition
+72,c,BAAA,0.001315301,0.997122783,unwesentlich,Density and competition
+73,c,BALAA,-0.575279603,0.081865565,mäßig,Density and competition
+74,c,Nlog,0.16302496,0.652710582,unwesentlich,Density and competition
+75,c,NlogAA,0.119667159,0.741944624,unwesentlich,Density and competition
+76,c,SDIAA,0.035906976,0.921554682,unwesentlich,Density and competition
+77,c,ALT,-0.430117425,0.214712058,schwach,GI
+78,c,RBAAA,-0.223723096,0.534374048,unwesentlich,MS
+79,c,RNAA,-0.183141869,0.612546171,unwesentlich,MS
+80,c,lat,0.407766,0.2421,schwach,GI
+81,c,lng,-0.112555,0.7569,unwesentlich,GI
+,,,,,,
+,,,,,,
