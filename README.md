@@ -2,8 +2,12 @@ This repoisitory includes data and R-code for the study on "Determination of opt
 
 The raw data collected by the project is given in the file "Araucaria-Nothofagus_raw_data.csv". Other csv-files represent further data subset used for specific analysis. See "all_code.R" for further explanation.
 
+  Kutchartt E, Hernández J, Corvalán P, Promis Á performed the empirical observations and organized the data base.
+
 The code that was used for the analysis presented in the above-mentioned manuscript is given in "all_code.R", including references to data subsets.
 
 Furthermore, an example for the re-calibration of tree height models with the data measured in a new stand is given in "Calibration-for-Araucaria-araucana.pdf".
+
+ All R-code was developed by Xinying Zhou.
 
 Feel free to reuse and modify the code for your own analysis. In such a case, it is very welcome if the above manuscript is cited.
