@@ -6,8 +6,8 @@ The raw data collected by the project is given in the file "Araucaria-Nothofagus
 
 The code that was used for the analysis presented in the above-mentioned manuscript is given in "all_code.R", including references to data subsets.
 
-Furthermore, an example for the re-calibration of tree height models with the data measured in a new stand is given in "Calibration-for-Araucaria-araucana.pdf".
+Furthermore, an example for the re-calibration of tree height models with the data measured in a new stand is given in "Supplementary_text_Examplary_calibration_for_Araucaria_araucana.pdf".
 
  All R-code was developed by Xinying Zhou.
 
-Feel free to reuse and modify the code for your own analysis. In such a case, it is very welcome if the above manuscript is cited.
+Feel free to reuse and modify the code for your own analyses, but please cite the above manuscript in subsequent publications.
