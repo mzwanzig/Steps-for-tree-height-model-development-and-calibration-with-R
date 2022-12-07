@@ -8,6 +8,6 @@ The code that was used for the analysis presented in the above-mentioned manuscr
 
 Furthermore, an example for the re-calibration of tree height models with the data measured in a new stand is given in "Examplary_calibration_for_Araucaria_araucana.pdf".
 
- All R-code was developed by Xinying Zhou.
+ All R-code was developed by Xinying Zhou, supervised by Martin Zwanzig.
 
 Feel free to reuse and modify the code for your own analyses. A citeable DOI for the release of the repository is provided by Zenodo.
