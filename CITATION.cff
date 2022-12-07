@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Zhou
+    given-names: Martin
+    orcid: https://orcid.org/0000-0002-6853-5007
+  - family-names: Zwanzig
+    given-names: Martin
+    orcid: https://orcid.org/0000-0003-1866-6743
+title: Steps for tree height model development and calibration with R
+version: v1.0.2
+date-released: 2022-12-07
