@@ -1,4 +1,7 @@
-This repository includes data and R-code for the study on "Determination of optimal tree height models and calibration designs for Araucaria araucana and Nothofagus pumilio in mixed stands affected to different levels by anthropogenic disturbance in south-central Chile" by Zhou X, Kutchartt E, Hernández J, Corvalán P, Promis Á, Zwanzig M, 2022
+This repository provides R-code for the determination of optimal tree height models and calibration designs, using data from Araucaria araucana and Nothofagus pumilio forests as an example.
+
+All analysis are demonstrated in the following publication:
+Zhou, X., Kutchartt, E., Hernández, J. et al. Determination of optimal tree height models and calibration designs for Araucaria araucana and Nothofagus pumilio in mixed stands affected to different levels by anthropogenic disturbance in South-Central Chile. Annals of Forest Science 80, 18 (2023). https://doi.org/10.1186/s13595-023-01185-9
 
 The tree stem diameter and height data collected by the project is given in the file "AA_NP_stem_diameter_height.xlsx". Other csv-files represent further data subset used for specific analysis. See "main.R" for further explanation.
 
